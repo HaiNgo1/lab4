@@ -1,0 +1,171 @@
+.modau{
+    width:80% ;
+    margin: auto;
+
+}
+.anh1{
+    float: left;
+}
+.tk{
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 200px;
+}
+#border1{
+    border-left: 1pt solid white ;
+    padding: 0px 15px ;
+}
+.nho{
+    width: 80%;
+    margin: auto;
+}
+#canhan{
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 0px 15px 0px 5px;
+    margin-left: auto;
+}
+#canhan:hover{
+    color: blue;
+}
+#canhan{
+    float: right;
+}
+.menu{
+    width: 100%;
+    height: 40px;
+    background:rgb(12, 120, 163) ;
+    margin: auto;
+    margin-top: 10px; ; 
+}
+li{
+    list-style: none;
+}
+.menu li a{
+    text-decoration: none;
+    float: left;
+    color: beige;
+    padding: 0px 22px 0px 20px;
+    line-height: 40px; 
+}
+#border2{
+    font-size:11pt;
+}
+#border1:hover{
+    background: rgb(1, 50, 70);
+}
+#border2:hover{
+    color:  rgb(172, 161, 161) ;
+}
+.lofo{
+    float: left;
+}
+#menu{
+    font-size: 20px;
+    color: white;
+    padding-top:10px ;
+}
+#menu{
+    border-left: 1pt solid white ;
+    border-right: 1pt solid white;
+    padding: 10px ;
+}
+#menu:hover{
+    background: rgb(1, 50, 70);
+}
+.link1{
+    text-decoration: none;
+    color: black;
+    font-size: 20pt; 
+}
+
+.link1 img{
+    transition-duration:0,5s ;
+
+}
+.link1 img:hover{
+    transform: scale(1.01);
+    
+}
+.link3 img{
+    transition-duration:0.5s ;
+
+}
+.link3 img:hover{
+    transform: scale(1.02);
+
+}
+.link1:hover{
+    color: blue;
+}
+.link2{
+    margin-top: 10px;
+    width: 100%;
+
+}
+.link0{
+    width: 600px;
+
+}
+
+.link00{
+    width: 600px;
+    display: flex;
+    margin-left: 1px;
+}
+.link3{
+    text-decoration: none;
+    color: black;
+    font-size: 12pt;
+    padding: 5px;
+    width: 33%;
+}
+.link4{
+    width: 100%;
+ 
+}
+.link3:hover{
+    color: blue;
+}
+#doan2{
+    width: 100px;
+}
+.link5{
+    display: flex;
+    color: black;
+}
+
+
+.link5:hover{
+    color: blue;
+
+}
+#doandau1{
+    float: left;
+}
+
+#doandau2{
+    margin-left: 750px;
+    height: 10px;
+}
+.link6{
+    width: 150px;
+    height: 120px;
+    
+}
+.link5{
+    width: 400px;
+    text-decoration: none;
+    font-size: 14pt;
+    padding: 20px 50px 0px 0px;
+}
+.link6:hover{
+    transform: scale(1.02);
+}
+.link6:hover{
+    transition-duration: 0.5s;
+}
+.anh1:hover{
+    opacity: 0.8;
+}
+
